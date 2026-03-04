@@ -22,7 +22,6 @@ The goal is to use **exploratory data analysis and visualization** to highlight 
 ### 1. Gender Comparison Across Continents
 
 This chart compares average mathematics scores for boys and girls across different continents.
-
 <img width="613" height="630" alt="gender_comparison" src="https://github.com/user-attachments/assets/91d1b4fb-5dc2-4f75-b9a4-ad770702767a" />
 
 
